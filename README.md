@@ -1,4 +1,3 @@
----
 # Neural Network Image Classifier
 
 ## Description
@@ -38,4 +37,3 @@ Instructions for running the code cannot be provided without access to the proje
 ## License
 
 MIT License
----
